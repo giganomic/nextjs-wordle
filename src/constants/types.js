@@ -1,0 +1,19 @@
+// REDUX ACTION TYPES
+export const ADD_KEY = 'ADD_KEY'
+export const REMOVE_KEY = 'REMOVE_KEY'
+
+export const ADD_CHAR = 'ADD_CHAR'
+export const REMOVE_CHAR = 'REMOVE_CHAR'
+export const REMOVE_LAST_CHAR = 'REMOVE_LAST_CHAR'
+
+export const RESET_GAME = 'RESET_GAME'
+export const CHECK_WORD = 'CHECK_WORD'
+
+export const SET_WRONG_WORD = 'SET_WRONG_WORD'
+export const UNSET_WRONG_WORD = 'UNSET_WRONG_WORD'
+
+export const ADD_TOAST = 'ADD_TOAST'
+export const REMOVE_TOAST = 'REMOVE_TOAST'
+
+export const SET_GAME_END_ALERT = 'SET_GAME_END_ALERT'
+export const UNSET_GAME_END_ALERT = 'UNSET_GAME_END_ALERT'
